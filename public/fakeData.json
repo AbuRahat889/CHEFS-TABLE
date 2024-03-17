@@ -1,0 +1,64 @@
+[
+    {
+      "id":1,
+      "recipe_img": "https://i.ibb.co/M7j1GmB/Rectangle-20170-1.png",
+      "recipe_id": "123456",
+      "recipe_name": "Spicy Chicken Pasta",
+      "short_description": "A delicious and fiery pasta dish with tender chicken pieces.",
+      "ingredients": ["chicken breast", "penne pasta", "tomatoes", "onion", "garlic", "chili flakes"],
+      "preparation_time_minutes": 30,
+      "calories": 450
+    },
+    {
+      "id":2,
+      "recipe_img": "https://i.ibb.co/7bQzgLg/Rectangle-20170.png",
+      "recipe_id": "789012",
+      "recipe_name": "Vegetarian Stir-Fry",
+      "short_description": "A quick and healthy stir-fry packed with colorful vegetables.",
+      "ingredients": ["bell peppers", "broccoli", "carrots"],
+      "preparation_time_minutes": 20,
+      "calories": 300
+    },
+    {
+      "id":3,
+      "recipe_img": "https://i.ibb.co/DWHNnM1/budi-puspa-wijaya-a2suz-ESBJZw-unsplash.jpg",
+      "recipe_id": "345678",
+      "recipe_name": "Creamy Mushroom Risotto",
+      "short_description": "Indulgent and creamy risotto with a rich mushroom flavor.",
+      "ingredients": ["arborio rice", "mushrooms", "onion", "vegetable broth", "parmesan cheese", "white wine"],
+      "preparation_time_minutes": 40,
+      "calories": 380
+    },
+    {
+      "id":4,
+      "recipe_img":"https://i.ibb.co/M7j1GmB/Rectangle-20170-1.png",
+      "recipe_id": "901234",
+      "recipe_name": "BBQ Pulled Pork Sandwich",
+      "short_description": "Tender pulled pork smothered in tangy barbecue sauce, served on a soft bun.",
+      "ingredients": ["pork shoulder", "barbecue sauce", "buns", "coleslaw"],
+      "preparation_time_minutes": 40, 
+      "calories": 550
+    },
+    {
+      "id":5,
+      "recipe_img": "https://i.ibb.co/DWHNnM1/budi-puspa-wijaya-a2suz-ESBJZw-unsplash.jpg",
+      "recipe_id": "345678",
+      "recipe_id": "567890",
+      "recipe_name": "Caprese Salad",
+      "short_description": "A simple and refreshing salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil.",
+      "ingredients": ["tomatoes", "fresh mozzarella", "basil leaves", "balsamic vinegar"],
+      "preparation_time_minutes": 15,
+      "calories": 250
+    },
+    {
+      "id":6,
+      "recipe_img": "https://i.ibb.co/7bQzgLg/Rectangle-20170.png",
+      "recipe_id": "234567",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Classic homemade chocolate chip cookies that are soft and chewy on the inside, crisp on the edges.",
+      "ingredients": ["all-purpose flour", "butter", "brown sugar", "white sugar", "chocolate chips"],
+      "preparation_time_minutes": 25,
+      "calories": 150
+    }
+  ]
+  
